@@ -1,0 +1,11 @@
+[project]
+name = "wildfire-convergence"
+version = "0.1.0"
+description = "Plots for the implicit wildfire paper"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupytext>=1.19.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.4",
+]

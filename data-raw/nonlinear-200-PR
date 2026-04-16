@@ -1,0 +1,11 @@
+Step 1  t: 1  L2: nan nan  H1: nan nan
+Step 2  t: 1  L2: nan nan  H1: nan nan
+Step 4  t: 1  L2: nan nan  H1: nan nan
+Step 8  t: 1  L2: nan nan  H1: nan nan
+Step 16  t: 1  L2: nan nan  H1: nan nan
+Step 32  t: 1  L2: -nan -nan  H1: -nan -nan
+Step 64  t: 1  L2: 36.2183 0.109782  H1: 47.294 0.143344
+Step 128  t: 1  L2: 17.6833 0.0536001  H1: 35.5187 0.107654
+Step 256  t: 1  L2: 8.3022 0.0251649  H1: 32.1119 0.0973284
+Step 512  t: 1  L2: 3.65753 0.0110864  H1: 31.3477 0.0950121
+Step 1024  t: 1  L2: 1.57721 0.00478071  H1: 31.2315 0.09466

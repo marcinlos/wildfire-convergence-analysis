@@ -1,0 +1,5 @@
+/.ipynb_checkpoints/
+/.ruff_cache
+/data/
+/plots/
+*.ipynb
